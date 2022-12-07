@@ -1,0 +1,7 @@
+java:
+30power3
+Hello World
+2+2
+This is another statement
+2*3
+102power5
